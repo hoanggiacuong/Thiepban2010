@@ -57,7 +57,7 @@
   var thu = '<p class="chao hien-dan">' + esc(P.chao) + "</p>";
   if (P.anh) thu += '<img class="anh-rieng hien-dan" src="' + esc(P.anh) + '" alt="">';
   P.loiChuc.forEach(function (d) { thu += '<p class="hien-dan">' + esc(d) + "</p>"; });
-  thu += '<div class="ky hien-dan">' + esc(D.loiKy || "Thương mến,") + "<b>" + esc(D.nguoiGui) + "</b></div>";
+  thu += '<div class="ky hien-dan">' + esc(P.loiKy || D.loiKy || "Thương mến,") + "<b>" + esc(D.nguoiGui) + "</b></div>";
   $("#la-thu").innerHTML = thu;
 
   $("#tu-cong-ty").textContent = D.congTy;

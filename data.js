@@ -15,7 +15,7 @@
 var THIEP = {
   // Địa chỉ trang trên GitHub Pages, dùng cho ảnh xem trước khi gửi link
   diaChi: "https://hoanggiacuong.github.io/Thiepban2010/",
-  loiKy: "Bạn tốt của mày,",    // dòng trên chữ ký cuối thư
+  loiKy: "Bạn tốt của mày,",    // dòng trên chữ ký cuối thư (mỗi người có thể đặt loiKy riêng)
   nguoiGui: "Cường",            // ký tên cuối thư
   congTy: "Cường",              // màn cuối: "Từ ..."
   anhChung: "",                 // ảnh chung ở cuối trang, ví dụ "anh/tinh-nguyen.jpg"
@@ -24,13 +24,12 @@ var THIEP = {
     huyen: {
       goi: "Huyền",
       tenNgan: "Huyền",
-      chao: "Huyền ơi,",
-      ban: "mày",
+      chao: "Huyền chó,",
       loiChuc: [
-        "Từ hồi quen nhau ở chuyến tình nguyện, tao vẫn nhớ cái dáng mày xách balo đi trước, chỗ nào lạ là đòi ghé, đường nào xa là đòi đi.",
-        "Giờ thành cô giáo, ngày nào cũng đúng giờ đúng giấc, chắc cái chân thích đi của mày đang bứt rứt lắm. Nhưng tao tin học trò của mày may lắm mới có một cô giáo vừa hiền vừa có cả một bầu trời chuyện phiêu lưu để kể.",
-        "20/10 này chúc mày vui hơn mỗi ngày, quen dần với nhịp mới mà không đánh mất mình, kỳ nghỉ tới lại xách balo lên mà đi. Đi đâu nhớ rủ tao 🎒🌄"
+        "Chúc mừng ngày của m!",
+        "20/10 này chúc mày vui hơn mỗi ngày, quen dần với nhịp mới mà không đánh mất mình, kỳ nghỉ tới lại xách balo lên mà đi. 🎒🌄"
       ],
+      loiKy: "Bạn của mày,",
       anh: "",
       anhThe: "",
       phongCach: "denim",
@@ -42,12 +41,10 @@ var THIEP = {
     tinh: {
       goi: "Tình",
       tenNgan: "Tình",
-      chao: "Tình ơi,",
-      ban: "mày",
+      chao: "Tình,",
       loiChuc: [
-        "Quen nhau từ hồi đi tình nguyện, ai ngờ giờ tụi mình thành cạ cứng đi music box, cứ cầm mic lên là quẩy tới bến.",
-        "Biết dạo này mày bị công việc với sếp dí dữ lắm. Học tiếng Hàn, làm công ty Hàn, áp lực đâu phải chuyện nhỏ, vậy mà mày vẫn cố từng ngày. Tao nể mày thật.",
-        "20/10 này chúc mày bớt deadline, sếp bớt khó, lương thì tăng đều. Mệt quá thì cứ hú tao, tụi mình lại đi hát một bữa cho đã 🎤🔥 화이팅!"
+        "Chúc mừng ngày của m",
+        "20/10 này chúc mày bớt deadline, sếp bớt khó, lương thì tăng đều. Mệt quá thì nghỉ để đi hát một bữa cho đã 🎤🔥 화이팅!"
       ],
       anh: "",
       anhThe: "",
